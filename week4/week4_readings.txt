@@ -1,0 +1,12 @@
+1. Flow-based Deep Generative Models:
+https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html
+2. Normalizing Flows:
+https://arxiv.org/abs/1908.09257
+3. Normalizing Flows Lecture:
+https://www.youtube.com/watch?v=u3vVyFVU_lI
+4. Semi-Supervised Learning with Normalizing Flows:
+https://arxiv.org/pdf/1912.13025.pdf
+5. NICE: Non-Linear Independent Components Estimations:
+https://arxiv.org/pdf/1410.8516.pdf
+6. Normalizing Flow for Probabilistic Modeling and Inference:
+https://arxiv.org/abs/1912.02762 
