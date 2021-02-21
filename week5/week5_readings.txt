@@ -1,0 +1,8 @@
+1. Variational Inference with Normalizing Flows:
+https://arxiv.org/abs/1505.05770 
+2. TransGAN:
+https://arxiv.org/abs/2102.07074
+3. MSA Transformer:
+https://www.biorxiv.org/content/10.1101/2021.02.12.430858v1
+4. Pytorch Flows Tutorial:
+https://github.com/acids-ircam/pytorch_flows 
