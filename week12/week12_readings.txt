@@ -1,0 +1,7 @@
+1. A new breakthrough for deep learning in genomics:
+https://centuryofbio.substack.com/p/deep-learning-in-genomics
+2. Effective gene expression prediction from sequence
+by integrating long-range interactions:
+https://www.biorxiv.org/content/10.1101/2021.04.07.438649v1
+3. Continued building backprop.org
+4. Went through some TF JS tutorials and studied related JS stuff

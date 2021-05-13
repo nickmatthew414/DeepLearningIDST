@@ -1,0 +1,14 @@
+Switch Transformers:
+https://arxiv.org/abs/2101.03961
+
+Did Research for GPT-1, GPT-2, GPT-3 Pages on website
+
+Read Gwern's writings on GPT-2, GPT-3:
+https://www.gwern.net/GPT-3
+https://www.gwern.net/GPT-2
+
+Went through some of this stuff:
+https://www.lesswrong.com/posts/6Hee7w2paEzHsD6mn/collection-of-gpt-3-results
+
+The power of scale for parameter-efficient prompt tuning:
+https://paperswithcode.com/paper/the-power-of-scale-for-parameter-efficient

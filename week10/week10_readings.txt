@@ -1,0 +1,2 @@
+1. Did a ton of research to make backprop.org website
+www.backprop.org

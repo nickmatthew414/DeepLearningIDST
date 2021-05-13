@@ -1,0 +1,7 @@
+1. Progressive Growing of GANs:
+https://arxiv.org/abs/1710.10196
+2. Neural Discrete Representation Learning:
+https://arxiv.org/pdf/1711.00937.pdf
+3. Why AI is Harder Than We Think:
+https://arxiv.org/pdf/2104.12871.pdf
+4. Did research for more backprop pages

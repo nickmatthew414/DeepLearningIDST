@@ -1,0 +1,10 @@
+1. Multimodal Neurons in Artificial Neural Networks:
+https://distill.pub/2021/multimodal-neurons/
+2. CLIP: Connecting Text and Images:
+https://arxiv.org/abs/2103.00020
+3. Longformer: The Long-Document Transformer:
+https://arxiv.org/abs/2004.05150
+4. Longformer Video:
+https://www.youtube.com/watch?v=_8KNb5iqblE&t=22s
+5. Longformer Video 2:
+https://www.youtube.com/watch?v=gJR28onlqzs&t=28s
